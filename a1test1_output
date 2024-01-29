@@ -1,0 +1,126 @@
+Table Configuration at time 0.00:
+Object 0: Rolling Ball 0 at (1.00, 3.00) with velocity (0.00, -1000.00) and acceleration (0.00, 180.00)
+
+Table Configuration at time 0.10:
+Object 1: Still Ball at (1.00, 3.00)
+Object 2: Rolling Ball 0 at (1.00, 1.00) with velocity (0.00, 0.00) and acceleration (0.00, 0.00)
+Object 3: Horizontal Cushion at y=0.00
+Object 4: Horizontal Cushion at y=4.00
+Object 5: Vertical Cushion at x=0.00
+Object 6: Vertical Cushion at x=5.00
+Object 7: Hole at (0.00, 0.00)
+Object 8: Hole at (5.00, 0.00)
+Object 9: Hole at (0.00, 4.00)
+Object 10: Hole at (5.00, 4.00)
+Object 11: Hole at (2.50, 0.00)
+Object 12: Hole at (2.50, 4.00)
+
+Table Configuration at time 0.20:
+Object 13: Still Ball at (1.00, 3.00)
+Object 14: Still Ball at (1.00, 1.00)
+Object 15: Rolling Ball 0 at (1.00, 0.20) with velocity (0.00, -1000.00) and acceleration (0.00, 0.00)
+Object 16: Horizontal Cushion at y=0.00
+Object 17: Horizontal Cushion at y=4.00
+Object 18: Vertical Cushion at x=0.00
+Object 19: Vertical Cushion at x=5.00
+Object 20: Hole at (0.00, 0.00)
+Object 21: Hole at (5.00, 0.00)
+Object 22: Hole at (0.00, 4.00)
+Object 23: Hole at (5.00, 4.00)
+Object 24: Hole at (2.50, 0.00)
+Object 25: Hole at (2.50, 4.00)
+
+Table Configuration at time 0.30:
+Object 26: Still Ball at (1.00, 3.00)
+Object 27: Still Ball at (1.00, 1.00)
+Object 28: Still Ball at (1.00, 0.20)
+Object 29: Rolling Ball 0 at (1.00, 0.10) with velocity (0.00, 0.00) and acceleration (0.00, 0.00)
+Object 30: Horizontal Cushion at y=0.00
+Object 31: Horizontal Cushion at y=4.00
+Object 32: Vertical Cushion at x=0.00
+Object 33: Vertical Cushion at x=5.00
+Object 34: Hole at (0.00, 0.00)
+Object 35: Hole at (5.00, 0.00)
+Object 36: Hole at (0.00, 4.00)
+Object 37: Hole at (5.00, 4.00)
+Object 38: Hole at (2.50, 0.00)
+Object 39: Hole at (2.50, 4.00)
+
+Table Configuration at time 0.40:
+Object 40: Still Ball at (1.00, 3.00)
+Object 41: Still Ball at (1.00, 1.00)
+Object 42: Still Ball at (1.00, 0.20)
+Object 43: Still Ball at (1.00, 0.10)
+Object 44: Rolling Ball 0 at (1.00, 0.05) with velocity (0.00, -1000.00) and acceleration (0.00, 0.00)
+Object 45: Horizontal Cushion at y=0.00
+Object 46: Horizontal Cushion at y=4.00
+Object 47: Vertical Cushion at x=0.00
+Object 48: Vertical Cushion at x=5.00
+Object 49: Hole at (0.00, 0.00)
+Object 50: Hole at (5.00, 0.00)
+Object 51: Hole at (0.00, 4.00)
+Object 52: Hole at (5.00, 4.00)
+Object 53: Hole at (2.50, 0.00)
+Object 54: Hole at (2.50, 4.00)
+
+Table Configuration at time 0.50:
+Object 55: Still Ball at (1.00, 3.00)
+Object 56: Still Ball at (1.00, 1.00)
+Object 57: Still Ball at (1.00, 0.20)
+Object 58: Still Ball at (1.00, 0.10)
+Object 59: Still Ball at (1.00, 0.05)
+Object 60: Rolling Ball 0 at (1.00, 0.02) with velocity (0.00, 0.00) and acceleration (0.00, 0.00)
+Object 61: Horizontal Cushion at y=0.00
+Object 62: Horizontal Cushion at y=4.00
+Object 63: Vertical Cushion at x=0.00
+Object 64: Vertical Cushion at x=5.00
+Object 65: Hole at (0.00, 0.00)
+Object 66: Hole at (5.00, 0.00)
+Object 67: Hole at (0.00, 4.00)
+Object 68: Hole at (5.00, 4.00)
+Object 69: Hole at (2.50, 0.00)
+Object 70: Hole at (2.50, 4.00)
+
+Table Configuration at time 0.60:
+Object 71: Still Ball at (1.00, 3.00)
+Object 72: Still Ball at (1.00, 1.00)
+Object 73: Still Ball at (1.00, 0.20)
+Object 74: Still Ball at (1.00, 0.10)
+Object 75: Still Ball at (1.00, 0.05)
+Object 76: Still Ball at (1.00, 0.02)
+Object 77: Rolling Ball 0 at (1.00, 0.01) with velocity (0.00, -1000.00) and acceleration (0.00, 0.00)
+Object 78: Horizontal Cushion at y=0.00
+Object 79: Horizontal Cushion at y=4.00
+Object 80: Vertical Cushion at x=0.00
+Object 81: Vertical Cushion at x=5.00
+Object 82: Hole at (0.00, 0.00)
+Object 83: Hole at (5.00, 0.00)
+Object 84: Hole at (0.00, 4.00)
+Object 85: Hole at (5.00, 4.00)
+Object 86: Hole at (2.50, 0.00)
+Object 87: Hole at (2.50, 4.00)
+
+Table Configuration at time 0.70:
+Object 88: Still Ball at (1.00, 3.00)
+Object 89: Still Ball at (1.00, 1.00)
+Object 90: Still Ball at (1.00, 0.20)
+Object 91: Still Ball at (1.00, 0.10)
+Object 92: Still Ball at (1.00, 0.05)
+Object 93: Still Ball at (1.00, 0.02)
+Object 94: Still Ball at (1.00, 0.01)
+Object 95: Rolling Ball 0 at (1.00, 0.00) with velocity (0.00, 0.00) and acceleration (0.00, 0.00)
+Object 96: Horizontal Cushion at y=0.00
+Object 97: Horizontal Cushion at y=4.00
+Object 98: Vertical Cushion at x=0.00
+Object 99: Vertical Cushion at x=5.00
+Object 100: Hole at (0.00, 0.00)
+Object 101: Hole at (5.00, 0.00)
+Object 102: Hole at (0.00, 4.00)
+Object 103: Hole at (5.00, 4.00)
+Object 104: Hole at (2.50, 0.00)
+Object 105: Hole at (2.50, 4.00)
+
+Table Configuration at time 0.80:
+No rolling balls left on the table.
+
+
